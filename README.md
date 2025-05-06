@@ -35,3 +35,11 @@ How this helps users:
 3-Reduces fraud and errors in money transfers.  
 
 4-Allows them to access banking features anytime, anywhere.
+
+--First Push--
+
+I have uploaded the code for the homepage of CipherCrest. It is a basic prototype that includes the main features needed for a banking website, such as navigation, account details, and quick access to important services.
+
+I built this with a focus on clean design and easy use. To make it more interesting and modern, I also added a dark mode option, which makes the site look better and is easier on the eyes, especially at night.
+
+This homepage is just the start. It sets the foundation for the full version of CipherCrest, which will include more advanced features in the future. Right now, it shows the core idea of a secure, user-friendly online banking experience.
