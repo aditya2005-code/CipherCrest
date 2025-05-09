@@ -540,13 +540,14 @@ a.button:hover{
 
 .about-container{
     padding-top: 40px;
-    margin-top: 10px;
+    margin: 10px;
     height: 100%;
     width: 100%;
     max-width: 800px;
     max-height: fit-content;
     text-align: center;
     padding: 20px;
+    
     border-radius: 10px;
     background-color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
