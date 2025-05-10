@@ -527,7 +527,7 @@ a.button:hover{
 
 /* about section */
 .about-cc {
-    height: 80vh;
+    height: 100vh;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -535,15 +535,16 @@ a.button:hover{
     position: relative;
     z-index: 1;
     padding-top: 50px;
+    align-items: center;
     
 }
 
 .about-container{
     padding-top: 40px;
     margin: 10px;
-    height: 100%;
-    width: 100%;
-    max-width: 800px;
+    height: 90%;
+    width: 50%;
+    max-width: 700px;
     max-height: fit-content;
     text-align: center;
     padding: 20px;
@@ -591,13 +592,16 @@ body.dark .about-container h1 {
     height: 90%;
     width: 50%;
     position: relative;
-    padding: 10px;
+   
     z-index: 1;
+    max-width: 700px;
 }
 
 .video-container video {
     width: 100%;
-    height: 95%;
+    height: 85%;
+    padding-top: 15%;
+    
     object-fit: cover;
     cursor: pointer;
     border-radius: 2%;
